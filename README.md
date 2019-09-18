@@ -1,3 +1,12 @@
+# CPSC Team Project
+
+members:
+- Brett Gattinger
+- Eric Austin
+- Lynn (Jiarong Xu)
+- Rory
+- Jack Wiebe
+
 # Phase 1
 
 ## Green Thumb

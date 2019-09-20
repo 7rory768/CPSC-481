@@ -4,7 +4,7 @@ members:
 - Brett Gattinger
 - Eric Austin
 - Lynn (Jiarong Xu)
-- Rory
+- Rory Skipper
 - Jack Wiebe
 
 # Phase 1

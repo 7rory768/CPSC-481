@@ -19,4 +19,17 @@ The idea is a grocery list app that will find the cheapest store to buy from. Wh
 This is an Android/iOS mobile app that gives parents control over kids screen time remotely. Parents have been trying hard to restrict the amount of time kids spend on their digital devices since kids are getting more and more addicted to electronic devices, but can’t always be present to police their childrens screentime. The study of National Institutes of Health has shown that brain changes among kids using screens more than seven hours a day lead to lower cognitive skills compared to those using screens for more than two hours a day. The purpose of this app is to give you an easy and effective way to keep track of their screen usage.  Parents can remotely link to any of the registered devices that their children use, such as their smartphones, tablets and even the home TV or computer, and allows them not only monitor what they are doing with their cell phone, but also set a time limit on certain apps or even blocking them. It also allows you to locate your kids so that you can see their location on the map. Access to the devices can be manually toggled at any time through the controlling users phone or schedules for access which will be automatically enforced can be set in advance. 
 Balancing on screen time is becoming a difficult task not only for young kids, but also adults. If you are someone who has addiction spending time on social media, watching videos or playing video games. This app also provides you a chance to use as a time management tool with someone you trust, for example your family, girl/boyfriend etc.
 
+# Phase 2
 
+In phase 2 we conducted research about the idea that we settled on, Green Thumb.
+
+## Report
+
+## Survey Results
+<embed src="https://7rory768.github.io/sample.pdf" type="application/pdf" />
+
+# Phase 3
+
+In phase 3 we created a low-fi prototype, a video prototype, and drew sketches for our app.
+
+## Sketches

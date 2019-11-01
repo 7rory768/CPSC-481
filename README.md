@@ -34,4 +34,4 @@ In phase 3 we created a low-fi prototype, a video prototype, and drew sketches f
 ## Sketches
 
 ## Storyboard
-<embed src="https://7rory768.github.io/storyboard.pdf" type="application/pdf" />
+<embed src="https://github.com/7rory768/CPSC-481/storyboard.pdf" type="application/pdf" />

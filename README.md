@@ -34,4 +34,5 @@ In phase 3 we created a low-fi prototype, a video prototype, and drew sketches f
 ## Sketches
 
 ## Storyboard
-<embed src="storyboard.pdf" type="application/pdf" />
+twst
+<embed src="/storyboard.pdf" type="application/pdf" />

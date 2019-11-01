@@ -33,10 +33,10 @@ In phase 3 we created a low-fi prototype, a video prototype, and drew sketches f
 
 ## Sketches
 
-<embed src="/Jack sketches.pdf" type="application/pdf" />
+<embed src="Jack sketches.pdf" type="application/pdf" />
 
-<embed src="/eric sketches.pdf" type="application/pdf" />
+<embed src="eric sketches.pdf" type="application/pdf" />
 
 
 ## Storyboard
-<embed src="/storyboard.pdf" type="application/pdf" />
+<embed src="storyboard.pdf" type="application/pdf" />

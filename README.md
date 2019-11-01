@@ -37,7 +37,10 @@ In phase 3 we created a low-fi prototype, a video prototype, and drew sketches f
 
 <embed src="eric sketches.pdf" type="application/pdf" />
 
-<embed src="44244C88-7F65-4B39-B432-C8D8C2B98DC5.jpeg" type="application/jpeg" />
+<embed src="44244C88-7F65-4B39-B432-C8D8C2B98DC5.jpeg" />
 
 ## Storyboard
 <embed src="storyboard.pdf" type="application/pdf" />
+
+## Lo-Fi Prototype
+<embed src="prototype software copy.pdf" type="application/pdf" />

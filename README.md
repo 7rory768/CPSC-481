@@ -26,10 +26,12 @@ In phase 2 we conducted research about the idea that we settled on, Green Thumb.
 ## Report
 
 ## Survey Results
-<embed src="https://7rory768.github.io/sample.pdf" type="application/pdf" />
 
 # Phase 3
 
 In phase 3 we created a low-fi prototype, a video prototype, and drew sketches for our app.
 
 ## Sketches
+
+## Storyboard
+<embed src="https://7rory768.github.io/storyboard.pdf" type="application/pdf" />

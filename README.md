@@ -54,7 +54,7 @@ In Phase 4 we created a Hi-Fi prototype and completed a heuristic evaluation on 
 https://drive.google.com/file/d/1q8m0_U5iajrf3XNQJDD1XFFWGfzfIhMm/view?usp=sharing
 
 ## Heuristic Evaluation (Our group's heuristic evaluation on MusicSurf)
-<embed src="heuristic-evaluation-music-surf-combined.xlsx" type = "application/xlsx" />
+https://drive.google.com/file/d/1RCq_A-6CVUtskxTSDRXvgWwytrjqJHMm/view?usp=sharing
 
 ## Heuristic Evaluation (Other group's heuristic evaluation on GreenThumb)
 https://drive.google.com/file/d/1S6dBiOMFKwXjc_OBuR3-R9aLWiOUJEVk/view?usp=sharing

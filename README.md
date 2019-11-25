@@ -51,13 +51,13 @@ In phase 3 we created a low-fi prototype, a video prototype, and drew sketches f
 In Phase 4 we created a Hi-Fi prototype and completed a heuristic evaluation on another groups Hi-Fi Prototype, MusicSurf. We then took the feedback from the heuristic evaulation that the MusicSurf group completed on us and then improved our initial prototype to create our final prototype.
 
 ## Initial Prototype
-<embed src="initial prototype.xd"/>
+https://drive.google.com/file/d/1q8m0_U5iajrf3XNQJDD1XFFWGfzfIhMm/view?usp=sharing
 
 ## Heuristic Evaluation (Our group's heuristic evaluation on MusicSurf)
-<embed src="heuristic-evaluation-music-surf-combined.xlsx"/>
+<embed src="heuristic-evaluation-music-surf-combined.xlsx" type = "application/xlsx" />
 
 ## Heuristic Evaluation (Other group's heuristic evaluation on GreenThumb)
-<embed src="Heuristic Evaluation of Green Thumb.xlsx"/>
+https://drive.google.com/file/d/1S6dBiOMFKwXjc_OBuR3-R9aLWiOUJEVk/view?usp=sharing
 
 ## Heuristic Evaluation Report
 <embed src="Heuristic Evaluation Report.pdf" type="application/pdf" />
